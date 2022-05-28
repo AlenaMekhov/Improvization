@@ -1,0 +1,117 @@
+header img{
+    height: 100px;
+    width: 100px;
+    border-radius: 35px;
+
+}
+header {
+    background-color: #DDFBFF;
+}
+h1 {
+  color: #5A7DFD;
+}
+p {
+   text-align: center; 
+   font-family: PT Serif;
+}
+h2 {
+    color: SteelBlue;
+}
+.tosha p{
+    float: right;
+    width: 300px;
+    border-top: 3px dotted SteelBlue;
+    border-bottom: 3px dotted SteelBlue;
+}
+.tosha img{
+    margin: 5px;
+    border: 2px solid SteelBlue; 
+    padding: 5px;
+    border-radius: 5px;
+}
+.ars p{
+    text-align: left;
+    margin: 25px;
+    width: 300px;
+    border-top: 3px dotted SteelBlue;
+    border-bottom: 3px dotted SteelBlue;
+}
+.ars img{
+    float: right;
+    margin: 5px;
+    border: 2px solid SteelBlue; 
+    padding: 5px;
+    border-radius: 5px;
+}
+.ars h2{
+    text-align: right;
+}
+.dima img{
+	
+    margin: 5px;
+    border: 2px solid SteelBlue; 
+    padding: 5px;
+    border-radius: 5px;
+}
+.dima p{
+	float: right;
+    width: 300px;
+    border-top: 3px dotted SteelBlue;
+    border-bottom: 3px dotted SteelBlue;
+    text-align: right;
+}
+
+
+.sergey h2 { 
+	text-align: right;
+}
+.sergey img{
+    margin: 5px;
+    border: 2px solid SteelBlue; 
+    padding: 5px;
+    border-radius: 5px; 
+	float: right;
+}
+.sergey p{
+	float: left;
+    width: 300px;
+    border-top: 3px dotted SteelBlue;
+    border-bottom: 3px dotted SteelBlue;
+    text-align: left;
+}
+nav a{
+    text-decoration: none;
+    color: darkblue;
+    border: 2px solid steelblue;
+    padding: 5px;
+    margin: 5px;
+    border-radius: 5px;
+    
+}
+nav {
+    display: flex;
+    justify-content: space-around;
+}
+.one {
+    float: right;
+}
+.formi {
+    text-align: center;
+}
+h3 {
+    color: darkblue;
+}
+footer {
+    background-color: #DDFBFF;
+    margin: 5px;
+    padding: 30px;
+    text-decoration: none;
+}
+footer a {
+    text-decoration: none;
+    color: darkblue;
+    border: 2px solid steelblue;
+    padding: 5px;
+    margin: 5px;
+    border-radius: 5px;
+}
